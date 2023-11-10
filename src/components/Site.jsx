@@ -1,51 +1,5 @@
 import React from 'react';
-const siteText = [
-  {
-    text: ["Make", "site compliant with", "webstandard"],
-    title:"웹 표준을 준수한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Vite",
-    ],
-  },
-  {
-    text: ["Make", "site compliant with", "react.js"],
-    title:"리액트를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-react",
-    view:"http://ajysmartweb.dothome.co.kr/port-react",
-    info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, React",
-    ],
-  },
-  {
-    text: ["Make", "site compliant with", "vue.js"],
-    title:"뷰를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-vue",
-    view:"http://ajysmartweb.dothome.co.kr/port-vue",
-    info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Vue",
-    ],
-  },
-  {
-    text: ["Make", "site compliant with", "next.js"],
-    title:"넥스트를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-next",
-    view:"http://ajysmartweb.dothome.co.kr/port-next",
-    info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Next.js",
-    ],
-  },
-]
-
+import { siteText } from '../constants';
 const Site = () => {
   return (
     <section id="site">

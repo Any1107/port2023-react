@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Header from '../components/Header'
 import Skip from '../components/Skip'
 import Skill from '../components/Skill'
@@ -10,8 +10,8 @@ import Contact from '../components/Contact'
 import Main from '../components/Main'
 
 
-
 const HomeView = () => {
+
   return (
       <>
             <Skip />

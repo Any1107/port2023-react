@@ -1,16 +1,5 @@
 import React from "react";
-const footerText =[
-  {
-    title:"github",
-    desc:"깃허브에 들어오시면 모든 소스를 볼 수 있습니다.",
-    link:"https://github.com/any1107",
-  },
-  {
-    title:"티스토리",
-    desc:"티스토리에 들어오시면 유용한 정보를 볼 수 있습니다.",
-    link:"https://anysmartweb.tistory.com",
-  },
-];
+import { footerText } from "../constants";
 
 const Footer = () => {
   return (
