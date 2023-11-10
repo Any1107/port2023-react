@@ -87,8 +87,8 @@ export const portText=[
     title:"vite 포트폴리오",
     desc: "자바스크립트 빌드 도구인 vite를 이용하여 만든 포트폴리오용 사이트입니다. 아직 미완성으로 계속 업데이트 예정입니다.",
     img: port09,
-    code:"http://ajysmartweb.dothome.co.kr/vite-project/src",
-    view:"http://ajysmartweb.dothome.co.kr/vite-project/src",
+    code:"https://ajyvite-port.netlify.app",
+    view:"https://ajyvite-port.netlify.app",
     name:"vite 포트폴리오"
   },
   {
@@ -166,7 +166,7 @@ export const siteText = [
     ],
   },
   {
-    text: ["Training & education "],
+    text: ["Training & education"],
     title:"코리아 IT아카데미 스마트웹 응용 프로그래밍 개발자 양성 과정",
     info:[
       "Training",
@@ -176,7 +176,7 @@ export const siteText = [
   },
   {
     text: ["Certificate"],
-    title:"사무자동화산업기사 2021.08, 정보처리기사 2023.06, 웹디자인기능사 2023.9",
+    title:"사무자동화산업기사 2021.08, 정보처리기사 2023.06, 웹디자인기능사 2023.09",
     info:[
       "Certificate",
       "",
