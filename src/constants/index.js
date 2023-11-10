@@ -12,92 +12,92 @@ import port10 from "../assets/img/port10.jpg";
 export const portText=[
   {
     num:"01",
-    title:"포트폴리오1",
-    desc: "포트폴리오 1소개",
+    title:"GSAP 나타내기 효과",
+    desc: "스크롤을 내리면 이미지나 텍스트가 나타나는 효과입니다.",
     img: port01,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오1"
+    code:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap05.html",
+    view:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap05.html",
+    name:"GSAP"
   },
   {
     num:"02",
-    title:"포트폴리오2",
-    desc: "포트폴리오 2소개",
+    title:"GSAP 이질감 효과",
+    desc: "스크롤 내리거나 올릴 때마다 위치 이동을 시켜줘서 보통의 요소보다 빠르게 또는 느리게 해주는 효과입니다.",
     img: port02,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오2"
+    code:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap04.html",
+    view:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap04.html",
+    name:"GSAP"
   },
   {
     num:"03",
-    title:"포트폴리오3",
-    desc: "포트폴리오 3소개",
+    title:"GSAP 배경고정하기",
+    desc: "스크롤을 내리면 배경이 고정되어 있고, 다음 섹션이 올라오는 형태의 애니메이션입니다.",
     img: port03,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오3"
+    code:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap03.html",
+    view:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap03.html",
+    name:"GSAP"
   },
   {
     num:"04",
-    title:"포트폴리오4",
-    desc: "포트폴리오 4소개",
+    title:"GSAP 핀 애니메이션",
+    desc: "ScrollTrigger의 Pin 속성을 사용하여 만든 애니메이션입니다.",
     img: port04,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오4"
+    code:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap02.html",
+    view:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap02.html",
+    name:"GSAP"
   },
   {
     num:"05",
-    title:"포트폴리오5",
-    desc: "포트폴리오 5소개",
+    title:"GSAP 기본 애니메이션 ",
+    desc: "GSAP의 패럴랙스 효과를 이용한 기본 애니메이션입니다.",
     img: port05,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오5"
+    code:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap01.html",
+    view:"http://ajysmartweb.dothome.co.kr/gsap2023/gsap01.html",
+    name:"GSAP5"
   },
   {
     num:"06",
-    title:"포트폴리오6",
-    desc: "포트폴리오 6소개",
+    title:"구글맵을 활용한 API",
+    desc: "공공테이터 포털 오픈 API의 자전거 사고 다발구간 정보를 활용하여 대구시 수성구의 자전거 사고 다발 구간을 구글맵으로 위치표시하였습니다.",
     img: port06,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오6"
+    code:"http://ajysmartweb.dothome.co.kr/api",
+    view:"http://ajysmartweb.dothome.co.kr/api",
+    name:"API활용"
   },
   {
     num:"07",
-    title:"포트폴리오7",
-    desc: "포트폴리오 7소개",
+    title:"강원천문대",
+    desc: "웹디자인 기능사 시험을 준비하면서 만든 가상의 사이트로 팝업 기능, 자바스크립트의 이미지 페이드 아웃 기능 등을 이용했습니다.",
     img: port07,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오7"
+    code:"http://ajysmartweb.dothome.co.kr/site-a",
+    view:"http://ajysmartweb.dothome.co.kr/site-a",
+    name:"강원천문대"
   },
   {
     num:"08",
-    title:"포트폴리오8",
-    desc: "포트폴리오 8소개",
+    title:"서울구석구석",
+    desc: "웹디자인 기능사 시험을 준비하면서 만든 가상의 사이트로 이미지 슬라이드 기능 등을 활용한 반응형 웹페이지입니다.",
     img: port08,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오8"
+    code:"http://ajysmartweb.dothome.co.kr/site-d",
+    view:"http://ajysmartweb.dothome.co.kr/site-d",
+    name:"서울구석구석"
   },
   {
     num:"09",
-    title:"포트폴리오9",
-    desc: "포트폴리오 9소개",
+    title:"vite 포트폴리오",
+    desc: "자바스크립트 빌드 도구인 vite를 이용하여 만든 포트폴리오용 사이트입니다. 아직 미완성으로 계속 업데이트 예정입니다.",
     img: port09,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
-    name:"포트폴리오9"
+    code:"http://ajysmartweb.dothome.co.kr/vite-project/src",
+    view:"http://ajysmartweb.dothome.co.kr/vite-project/src",
+    name:"vite 포트폴리오"
   },
   {
     num:"10",
-    title:"포트폴리오10",
-    desc: "포트폴리오 10소개",
+    title:"WordPress홈페이지",
+    desc: "오픈소스 소프트웨어인 워드프레스를 이용하여 만든 저의 개인홈페이지 입니다. 아직 미완성이며 계속 업데이트 예정입니다.",
     img: port10,
-    code:"http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
+    code:"http://ajysmartweb.dothome.co.kr/wordpress",
+    view:"http://ajysmartweb.dothome.co.kr/wordpress",
     name:"포트폴리오10"
   },
 
@@ -109,11 +109,11 @@ export const headerNav = [
         url: "#intro",
       },
       {
-        title:"skill", 
+        title:"about", 
         url: "#skill",
       },
       {
-        title:"site", 
+        title:"skill", 
         url: "#site",
       },
       {
@@ -138,57 +138,49 @@ export const skillText = [
         desc: "I like to make space.I've loved making my own space since I was young and I've loved my own attic. I wish even one person would be inspired or moved in the space I made.Being able to create my own space to my heart's content seems to be a huge attraction of coding.I want to design my own dreams, develop them, and live in the future."
       },
       {
-        title: "열심히 할수록 기회는 따른다.",
-        desc: "운이 좋은 사람은 없다. 단지 운을 만들 뿐이다.운을 만들기 위해서는 내가 좋아하는 일이나 내가 하고 싶은 일에 몰두하면 된다.몰두 하다보면 길이 보이고 방향이 보이게 된다.운이란 고된 노동과 노력을 통해 스스로 만들어 내는 것이다."
+        title: "The harder you work, the more opportunities come.",
+        desc: "No one is lucky. It just creates luck.To make luck, you can focus on what you like or what you want to do.As you immerse yourself, you can see the path and the direction.Luck is what you make yourself through hard work and hard work."
       },
       {
-        title: "나에게 정직하다.",
-        desc: "정직은 다른 사람보다 나에게 큰 의미를 부여해야 한다.자신이 정직하지 않으면 진정으로 원하는 일을 열정적으로 밀고 나갈 수 없다.마음에서 우러나오는 일을 해야 정직해지며 삶을 더 즐길 줄 알게 된다."
+        title: "Be honest with me.",
+        desc: "Honesty should mean more to me than to others.If you are not honest, you cannot passionately push ahead with what you really want.You have to do what comes from the heart to be honest and to enjoy life more."
       },
 ]    
 export const siteText = [
   {
-    text: ["Make", "site compliant with", "webstandard"],
-    title:"웹 표준을 준수한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-vite",
-    view:"http://ajysmartweb.dothome.co.kr/port-vite",
+    text: ["work experience"],
+    title:"한국동서발전㈜ 2009.04 ~ 2009.10, ㈜팝크리에이션 2006.09 ~ 2008.06,주간교육신문사 2004.10 ~ 2006.08",
     info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Vite",
+      "Career",
+      "Experience period:4 years and 4 months",
+      "Role:editor",
     ],
   },
   {
-    text: ["Make", "site compliant with", "react.js"],
-    title:"리액트를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-react",
-    view:"http://ajysmartweb.dothome.co.kr/port-react",
+    text: ["my skills"],
+    title:"HTML5, CSS3, JavaScript, jQuery, React.js, MY-SQL, Spring Boot",
     info:[
-      "site coding",
-      "production perido:two days",
+      "Skills",
+      "a period of learning: about 9 months",
       "use stack:html5/css3,Css Variable, React",
     ],
   },
   {
-    text: ["Make", "site compliant with", "vue.js"],
-    title:"뷰를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-vue",
-    view:"http://ajysmartweb.dothome.co.kr/port-vue",
+    text: ["Training & education "],
+    title:"코리아 IT아카데미 스마트웹 응용 프로그래밍 개발자 양성 과정",
     info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Vue",
+      "Training",
+      "a period of training: 6 months",
+      "HTML5, CSS3, JavaScript,Spring Boot,Android Studio etc.",
     ],
   },
   {
-    text: ["Make", "site compliant with", "next.js"],
-    title:"넥스트를 이용한 사이트 제작",
-    code: "http://github.com/Any1107/port2023-next",
-    view:"http://ajysmartweb.dothome.co.kr/port-next",
+    text: ["Certificate"],
+    title:"사무자동화산업기사 2021.08, 정보처리기사 2023.06, 웹디자인기능사 2023.9",
     info:[
-      "site coding",
-      "production perido:two days",
-      "use stack:html5/css3,Css Variable, Next.js",
+      "Certificate",
+      "",
+      "",
     ],
   },
 ]

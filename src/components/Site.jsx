@@ -5,7 +5,7 @@ const Site = () => {
     <section id="site">
       <div className="site_inner">
         <h2 className="site_title">
-          Site coding<em>나의 작업물</em>
+         My career<em>내가 걸어온 길</em>
         </h2>
         <div className="site_wrap">
           {siteText.map((site, key)=> (
@@ -21,10 +21,6 @@ const Site = () => {
                 <h3 className="title">
                   {site.title}
                 </h3>
-                <div className="btn">
-                  <a href={site.code}></a>
-                  <a href={site.view}></a>
-                </div>
                 <div className="info">
                   <span>{site.info[0]}</span>
                   <span>{site.info[1]}</span>
