@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="footer_info">
         <div className="left">
           <div className="title">
-            <a href="#">social</a>
+            <p>social</p>
           </div>
           <p>under construction</p>
         </div>
